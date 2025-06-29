@@ -1,0 +1,9 @@
+{
+    "graphs": {
+        "agent": "graph.graph:app"
+    },
+    "dependencies": [
+        "requirements.txt"
+    ],
+    "env": ".env"
+}
